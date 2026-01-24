@@ -1,2 +1,2 @@
-# v1.0.1
-- Added missing 1LS EO RF1 and 1LS O RF1 signs.
+# v1.0.2
+- Added missing 1LS OD 2, 1LS OD RF1 2, 1LS OD RF2 2, 1LS OL 2, 1LS OL RF1 2, 1LS OL RF2 2, 1LS OLL 2, 1LS OLL RF1 2, 1LS OR 2, 1LS OR RF1 2, 1LS OR RF2 2, 1LS ORL 2, and 1LS ORL RF1 2 signs.
