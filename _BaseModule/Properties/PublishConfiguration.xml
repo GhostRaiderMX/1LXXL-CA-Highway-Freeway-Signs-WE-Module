@@ -1,14 +1,14 @@
 <Publish>
-  <ModId Value="129607" />
-  <DisplayName Value="1LS CA Highway (Freeway) Signs (WE Module)" />
-  <ShortDescription Value="A Write Everywhere Module that contains 1 lane small California highway (freeway) signs." />
-  <LongDescription># 1LS California Highway (Freeway) Signs for Cities: Skylines II
+  <ModId Value="" />
+  <DisplayName Value="1LXXL CA Highway (Freeway) Signs (WE Module)" />
+  <ShortDescription Value="A Write Everywhere Module that contains 1 lane extra-extra large (XX-Large) California highway (freeway) signs." />
+  <LongDescription># 1LXXL California Highway (Freeway) Signs for Cities: Skylines II
 
-Hello Cities: Skylines II civil engineers! This is a **Write Everywhere Module** that brings 1 lane small California highway (freeway) signs into Cities: Skylines II!
+Hello Cities: Skylines II civil engineers! This is a **Write Everywhere Module** that brings 1 lane extra-extra large (XX-Large) California highway (freeway) signs into Cities: Skylines II!
 
 ## Features
 
-- 1 Lane (Small) California Highway (Freeway) signs inspired by California's MUTCD
+- 1 Lane (XX-Large) California Highway (Freeway) signs inspired by California's MUTCD
 - 50 total signs (see screenshots)
 - WE Layout included for easy implementation onto your highways (freeways)
 
@@ -21,17 +21,17 @@ Hello Cities: Skylines II civil engineers! This is a **Write Everywhere Module**
 5. Click on the Folder Icon (Import/load...).
 6. Click on Import layout from xml at root.
 7. Click on the puzzle-piece (Templates from mods)... (see screenshot)
-8. Click on 1LS CA Highway Signs (WE). (see screenshot)
-9. Click on 1LS CA Highway Sign.wedefault.xml. (see screenshot)
+8. Click on 1LXXL CA Highway Signs (WE). (see screenshot)
+9. Click on 1LXXL CA Highway Sign.wedefault.xml. (see screenshot)
 10. The layout will be added to WE's COMPONENTS TREE window. (see screenshot)
-11. Click the down arrow on 1LS CA Highway Sign.
+11. Click the down arrow on 1LXXL CA Highway Sign.
 12. Select Sign Image.
-13. On the CONTENT window, set Atlas to 1LS CA Highway Signs (WE):1LS CA Highway Signs. (see screenshot)
-14. Set Image and customize it to your city needs! (there are plenty of WE Modules on Paradox Mods that include highway shields for use with 1LS CA Highway (Freeway) Signs)
+13. On the CONTENT window, set Atlas to 1LXXL CA Highway Signs (WE):1LXXL CA Highway Signs. (see screenshot)
+14. Set Image and customize it to your city needs! (there are plenty of WE Modules on Paradox Mods that include highway shields for use with 1LXXL CA Highway (Freeway) Signs)
 
 There is some terminology that you can use to determine what sign is what:
 
-- 1LS - 1 Lane Small
+- 1LXXL - 1 Lane XX-Large
 - Blank - Blank Sign
 - YB - Yellow Banner
 - EO - Exit Only
@@ -85,10 +85,9 @@ No fonts included. Any True-Type font (.ttf) can be used with these signs. I per
 - Check out my profile for more of my signs and subscribe for the latest releases!</LongDescription>
   <Thumbnail Value="Properties/Thumbnail.png" />
   <ForumLink Value="https://forum.paradoxplaza.com/forum/threads/1ls-california-highway-freeway-signs-we-module.1891719" />
-  <ModVersion Value="1.0.2" />
+  <ModVersion Value="1.0.0" />
   <GameVersion Value="1.*" />
-  <ChangeLog># v1.0.2
-- Added missing 1LS OD 2, 1LS OD RF1 2, 1LS OD RF2 2, 1LS OL 2, 1LS OL RF1 2, 1LS OL RF2 2, 1LS OLL 2, 1LS OLL RF1 2, 1LS OR 2, 1LS OR RF1 2, 1LS OR RF2 2, 1LS ORL 2, and 1LS ORL RF1 2 signs.</ChangeLog>
+  <ChangeLog />
   <Tag Value="Code Mod" />
   <Screenshot Value="Screenshots\Screenshot_0.jpg" />
   <Screenshot Value="Screenshots\Screenshot_1.jpg" />
@@ -99,5 +98,5 @@ No fonts included. Any True-Type font (.ttf) can be used with these signs. I per
   <Screenshot Value="Screenshots\Screenshot_6.jpg" />
   <Screenshot Value="Screenshots\Screenshot_7.jpg" />
   <Dependency Id="92908" ModVersion="" DisplayName="Write Everywhere" />
-  <ExternalLink Type="github" Url="https://github.com/GhostRaiderMX/1LS-CA-Highway-Freeway-Signs-WE-Module" />
+  <ExternalLink Type="github" Url="https://github.com/GhostRaiderMX/1LXXL-CA-Highway-Freeway-Signs-WE-Module" />
 </Publish>
